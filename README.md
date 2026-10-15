@@ -35,8 +35,7 @@ Key data preparation steps include:
 - Created a dedicated `MyMeasures` table to organize DAX measures.
 - Created a DAX calendar table containing dates, years, months, and month names.
 - Configured month sorting and data model relationships as specified in the project requirements.
-- Restricted the report to display data from 2020 onward.
-
+  
 ## Key DAX Measures
 
 The dashboard includes the following measures and calculations:
